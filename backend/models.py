@@ -15,5 +15,5 @@ class Dost(db.Model):
             "role": self.role,
             "description": self.description,
             "gender": self.gender,
-            "imgUrl": self.image_url,
+            "imgUrl": self.img_url,
         }
